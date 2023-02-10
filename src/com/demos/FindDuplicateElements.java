@@ -18,7 +18,7 @@ public class FindDuplicateElements {
 				if (names[i].equals(names[j])) { // got the duplicate element
 				}
 			}
-		}
+		} 
 
 		// Second solution : use HashSet data structure to find duplicates
 		System.out.println("Duplicate elements from array using HashSet data structure");
