@@ -11,7 +11,7 @@ class PrimeNumber{
 		if(isPrime(n)) {
 			System.out.println(n+" is a prime number ");
 		}else {
-			System.out.println(n+" is a prime number ");
+			System.out.println(n+" is not a prime number ");
 		}
 	
 	}
